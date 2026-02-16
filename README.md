@@ -38,4 +38,5 @@ No terminal, dentro da pasta do projeto, execute:
 gcc main.c usuarios.c cadastro.c venPag.c relat.c utilidades.c idcliente.c -o sistema_gestao.exe
 ```
 ### Execuçãp
+```bash
 ./sistema_gestao.exe
