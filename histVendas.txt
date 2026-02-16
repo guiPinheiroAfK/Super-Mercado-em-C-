@@ -1,0 +1,20 @@
+---------------------------------------------------
+VENDA REGISTRADA EM: 23062025 / 20:18:34
+---------------------------------------------------
+ITENS DA COMPRA:
+- Produto: Pika (Cod: 1001)
+  Preco Unitario: R$ 18,75
+  Quantidade Comprada: 50
+  Subtotal do Item: R$ 937,50
+  ---
+---------------------------------------------------
+TOTAL DA VENDA: R$ 937,50
+SALDO FINAL DO CAIXA: R$ 818,75
+
+CLIENTE ASSOCIADO:
+  ID: 0001
+  Nome: Guilherme Henrique Pinheiro Gonçalves
+  CPF: 14796535942
+
+===================================================
+

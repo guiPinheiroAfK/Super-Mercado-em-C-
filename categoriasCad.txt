@@ -1,0 +1,5 @@
+1;Sexo
+2;Elet
+3;Alimentos
+4;Padaria
+5;Limpeza
